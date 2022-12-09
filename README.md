@@ -1,15 +1,15 @@
 # SORTING-VISUALIZER
 
-A web application showcasing the inner workings of sorting algorithms.
+A Javascript web application showcasing the inner workings of sorting algorithms.
 
 Implemented algorithms:
 
-Bubble sort
-Selection sort
-Insertion sort
-Merge sort
-Quick sort
-Heap sort
+1. Bubble sort</br>
+2. Selection sort</br>
+3. Insertion sort</br>
+4. Merge sort</br>
+5. Quick sort</br>
+6. Heap sort</br>
 
 Features:
 
