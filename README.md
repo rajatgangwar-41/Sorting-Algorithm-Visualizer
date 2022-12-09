@@ -3,8 +3,8 @@
 A Javascript web application showcasing the inner workings of sorting algorithms.
 
 Implemented algorithms:
-<div color:#1f4068>
-1. -Bubble sort</br>
+<div style="color:#1f4068">
+1. Bubble sort</br>
 2. Selection sort</br>
 3. Insertion sort</br>
 4. Merge sort</br>
