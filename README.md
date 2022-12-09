@@ -1,4 +1,4 @@
-# SORTING-VISUALIZER
+# SORTING-ALGORITHM-VISUALIZER
 
 A Javascript web application showcasing the inner workings of sorting algorithms.
 
@@ -15,9 +15,9 @@ Implemented algorithms:
 Features:</br>
 
 <> Colored representation of step being executed.</br></br>
- 1.1) Red : default</br>
+ 1.1) Red : Default</br>
  1.2) Blue : Being compared </br>
- 1.3) Yellow : Identified as in incorrect position and to be moved </br>
+ 1.3) Light Blue : Identified as in incorrect position and to be moved </br>
  1.4) Green : In correct position.</br>
 
 <> 4 Controls for visualizations</br></br>
